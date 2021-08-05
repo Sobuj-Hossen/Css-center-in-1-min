@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+}
+
+.box{
+    height: 625px;
+    background-color: rgb(255, 220, 103);
+    display: grid;
+    place-items: center;
+}
